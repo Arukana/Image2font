@@ -2,8 +2,8 @@
 
 [![travis-badge][]][travis] [![license-badge][]][license]
 
-[travis-badge]: https://travis-ci.org/limaconoob/Image2font.svg?branch=master&style=flat-square
-[travis]: https://travis-ci.org/limaconoob/Image2font
+[travis-badge]: https://travis-ci.org/Arukana/Image2font.svg?branch=master&style=flat-square
+[travis]: https://travis-ci.org/Arukana/Image2font
 [license-badge]: http://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square
 [license]: https://github.com/limaconoob/Image2font/blob/master/LICENSE
 
